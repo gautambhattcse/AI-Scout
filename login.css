@@ -126,8 +126,9 @@
   display: flex;
   position: absolute;
   justify-content: center;
+  top:2%;
+  left:39%;
   align-items: center;
-  margin-top: -566px;
 }
 .form-container {
     width: 320px;
