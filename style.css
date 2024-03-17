@@ -296,7 +296,7 @@ main .heroSection{
   line-height: 105px;
   justify-content: center;
   align-items: center;
- background-image: url(/assets/images/layered-waves-bg.svg);
+ background-image: url(layered-waves-bg.svg);
  background-size: cover;
  background-position: center;
  background-repeat: no-repeat;
