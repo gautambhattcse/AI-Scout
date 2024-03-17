@@ -124,11 +124,10 @@
 .login-right{
   height: 100vh;
   display: flex;
-  /* position: absolute; */
+  position: absolute;
   justify-content: center;
   align-items: center;
   margin-top: -566px;
-  z-index: 10;
 }
 .form-container {
     width: 320px;
